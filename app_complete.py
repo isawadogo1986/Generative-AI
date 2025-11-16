@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 st.set_page_config(
     page_title="Assistant Complet RAG + 5 Agents",
     page_icon="🤖",
-    layout="wide"
+    layout="wide" 
 )
 
 load_dotenv()
