@@ -1,4 +1,4 @@
-Plateforme Financière Intelligente - Résumé
+# Plateforme Financière Intelligente - Résumé
 📋 Description
 Application web Streamlit avec système multi-agents automatique spécialisé en analyse financière. L'IA détecte automatiquement l'agent le plus adapté à chaque question.
 
