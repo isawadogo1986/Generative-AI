@@ -104,4 +104,4 @@ Données stockées localement
 
 Accès : http://localhost:8501 après lancement
 
-Plateforme tout-en-un pour l'analyse financière assistée par IA 
+Plateforme tout-en-un pour l'analyse financière assistée par IA
